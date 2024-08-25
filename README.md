@@ -1,9 +1,3 @@
-# Proyek-Analisis-Data-Bike-Sharing
-
-Project Akhir Dicoding Belajar Analisis Data dengan Python
-
-## Links :
-*  https://rizalnr.streamlit.app/
 
 
 ## Setup environment
@@ -19,5 +13,5 @@ streamlit run dashboard.py
 
 or
 
-python -m streamlit run dashboard.py
+python -m streamlit run app.py
 ```
