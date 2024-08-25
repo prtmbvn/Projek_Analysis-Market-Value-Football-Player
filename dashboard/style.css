@@ -1,0 +1,13 @@
+/* style.css */
+.stMarkdown h1, .stMarkdown h2, .stMarkdown h3, .stMarkdown h4 {
+    color: #333333;
+    font-family: 'Arial', sans-serif;
+}
+.stDataframe {
+    border: 1px solid #e6e6e6;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+.css-1d391kg {
+    background-color: #FFFFFF !important;
+}
